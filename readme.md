@@ -7,4 +7,6 @@
 
 
 2.Overlap:
+ - Place in joinList.js
+ - Run by: ```node joinList.js```
  - Approach: Sort array by endPx -> Iterate through array -> Check for overlap and merge
